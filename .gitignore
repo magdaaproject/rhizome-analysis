@@ -4,3 +4,11 @@
 *.jar
 *.war
 *.ear
+
+# other misc files
+.classpath
+.project
+.settings
+.DS_Store
+
+tests/
